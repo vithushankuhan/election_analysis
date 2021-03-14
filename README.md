@@ -2,12 +2,12 @@
 
 ## Project Overview
 
-Tom, a Colorado Board of Elections employess has been tasked with completing the election audit of a recent local congressional election. In addition to the electino audit, the Election Commission has requested the addition of the following information: 
+Tom, a Colorado Board of Elections employess has been tasked with completing the election audit of a recent local congressional election. In addition to the election audit, the Election Commission has requested the addition of the following information: 
 - The voter turnout for each county
 - The percentage of votes from each county out of the total count
 - The county with the highest turnout
 
-Using python, I assisted tom with analyzing the data and adding the additional information to the audit. 
+Using python, analysis on the election results dataset was conducted to add and present the additional information to the audit. 
 
 ## Election Audit Results
 
