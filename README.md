@@ -30,4 +30,4 @@ All data on the election results can be found in election_analysis.txt located i
 
 In summary, using python to analyze the election data and determine a winner is effective and can be extended to other elections in other parts of the nation or world. 
 - First, this script can be used to determine election outcomes based on city polling instead of counties. In order to do this, voter data from multiple cities will need to be either put into the election_results.csv file or a new dataset will need to be created. 
-- Second, we could also include the age of voters to determine how age influecnes election results. To do this we would simply initializing a new variable and naming it vote_age = 0. This variable will hold the data of the voters age. 
+- Second, we could also include the age of voters to determine how age influecnes election results. To do this we would simply initializing a new variable and naming it voter_age = 0. This variable will hold the data of the voters age. We then will need collect data on the age of voters and get the script to read the age data from the csv file. 
