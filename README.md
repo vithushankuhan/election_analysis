@@ -24,6 +24,8 @@ Using python, I assisted tom with analyzing the data and adding the additional i
 - **Charles Casper Stockham**: Charles received 85,213 votes, which is 23% of all votes.
 - **Ryan Anthony Doane**: Raymon recieve 11,606 votes which is 3.1% of all votes.
 
+<img width="362" alt="Screen Shot 2021-03-14 at 1 04 33 PM" src="https://user-images.githubusercontent.com/76541288/111077190-fba12d80-84c5-11eb-8712-3623f99656c4.png">
+
 All data on the election results can be found in election_analysis.txt located in the Analysis folder.
 
 ## Election Audit Summary
